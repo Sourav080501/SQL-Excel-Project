@@ -21,3 +21,11 @@ This project demonstrates how SQL and Excel can be combined to analyze financial
 ## Tools Used
 - MySQL  
 - Microsoft Excel
+
+  ## Excel Dashboard
+
+The Excel workbook contains Pivot Tables and Charts to visualize:
+
+- 'Customer Exposure' → Identifies total loan exposure by customer segments.  
+- 'Loan Breakdown' → Shows portfolio distribution across loan types.  
+- 'Repayment Trend' → Tracks repayment performance over time.
