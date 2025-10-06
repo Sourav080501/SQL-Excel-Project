@@ -20,7 +20,7 @@ This project demonstrates how SQL and Excel can be combined to analyze financial
 
 ## Tools Used
 - MySQL
-- Microsoft Excel (https://github.com/Sourav080501/SQL-Excel-Project/blob/main/Loan%20Portfolio.xlsx)
+- Microsoft Excel
 
   ## Excel Dashboard
 
