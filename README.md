@@ -21,4 +21,3 @@ This project demonstrates how SQL and Excel can be combined to analyze financial
 ## Tools Used
 - MySQL  
 - Microsoft Excel
-- 
